@@ -7,7 +7,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 app = FastAPI(
-    title="Studenhexe",
+    title="Stundenhexe",
     description="School Timetable Planning System",
     version="0.1.0",
 )
